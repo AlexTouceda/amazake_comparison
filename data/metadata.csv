@@ -1,0 +1,13 @@
+﻿filename,timepoint,organism,replicate,pair
+AAO-0H-1,0,AAO,1,1
+AAO-0H-2,0,AAO,2,2
+AAO-0H-3,0,AAO,3,3
+AAO-16H-1,16,AAO,1,1
+AAO-16H-2,16,AAO,2,2
+AAO-16H-3,16,AAO,3,3
+BA-0H-1,0,BA,1,4
+BA-0H-2,0,BA,2,5
+BA-0H-3,0,BA,3,6
+BA-16H-1,16,BA,1,4
+BA-16H-2,16,BA,2,5
+BA-16H-3,16,BA,3,6
